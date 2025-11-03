@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 🎯 **Data Analyst & Business Analyst** | 3 years experience at **Wipro**  
 🎓 **Master’s in Business Analytics**, Wright State University, USA  
 
-![Analytics Image][(https://www.istockphoto.com/photo/an-analyst-uses-a-computer-and-dashboard-for-data-business-analysis-and-data-gm1480239160-507980841)]
+![Business Analytics](https://unblast.com/free-business-analytics-vector-illustration-ai/)
+
 
 ---
 
