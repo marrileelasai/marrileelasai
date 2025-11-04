@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># Hi there 👋, I'm Marri Leelasai
 
-🎯 **Data Analyst & Business Analyst** | 3 years experience at **Wipro**  
+🎯 **Software Engineer & Data Analyst & Business Analyst** | 3 years experience at **Wipro**  
 🎓 **Master’s in Business Analytics**, Wright State University, USA  
 
 ![Business Analyst](BusinessAnalyst_NortheasternGraduateBlog_HeroImage-1.webp)
